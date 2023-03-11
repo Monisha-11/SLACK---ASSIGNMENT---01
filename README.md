@@ -1,6 +1,7 @@
 # SLACK---ASSIGNMENT---01
 BASIC - JAVA PROGRAMS
 
+<<<<<<< HEAD
 ## REGISTER NUMBER : 212221240029
 ## NAME : Monisha T
 
@@ -236,3 +237,5 @@ public class Main
 ```
 ### OUTPUT
 ![output](./8.png)
+=======
+>>>>>>> c15616db0f5a0dddaf6d891b6da72a0c1aeb7e72
